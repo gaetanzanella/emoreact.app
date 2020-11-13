@@ -2,17 +2,11 @@
     <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
         <div class="container">
             <div class="left">
-                <g-link :to="{ name: 'home' }" class="home-link">
-                    <img 
-                        src="../../static/logo.svg"
-                        :alt="settings.site_name" 
-                        class="logo"
-                    />
-                </g-link>
+                <h3>Emoreact'</h3>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Journal</g-link>
-                <g-link class="nav__link" to="/contact">Say Hi!</g-link>
+                <a href="https://www.facebook.com/emoreact/">Assistance</a>
+                <g-link class="nav__link" to="/privacy">Privacy Policy</g-link>
             </nav>
         </div>
     </header>
@@ -58,7 +52,7 @@ export default {
     font-weight: 700;
     letter-spacing: 0.05em;
     text-decoration: none;
-    text-transform: uppercase;   
+    text-transform: uppercase;
 }
 .nav > * {
     font-size: 0.9rem;

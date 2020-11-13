@@ -1,17 +1,15 @@
 <template>
     <div class="projects">
         <div class="project" v-for="item in projects" :key="item.node.id">
-            <g-link :to="item.node.path" class="project-link">
+          <a href="https://apps.apple.com/us/app/emoreact/id1477856072?itsct=apps_box&amp;itscg=30200">
             <g-image
                 :src="item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
             />
-            <h3 class="project-title">{{ item.node.title }}</h3>
-            <div class="categories">
-                <span class="category" v-for="(item, index) in item.node.categories" :key="index">{{ item }}</span>
-            </div>
-            </g-link>
+            <h3 class="project-title"></h3>
+            <a href="https://apps.apple.com/us/app/emoreact/id1477856072?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1566950400&h=aa895340a99eb0cdf02e7dd24ab5670c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+            </a>
         </div>
     </div>
 </template>
