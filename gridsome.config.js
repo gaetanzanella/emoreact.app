@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Emoreact",
+  siteUrl: `https://lucid-kepler-c31dd6.netlify.app/`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "Emoreact'",
+  siteDescription: "React to messages in emojis",
   plugins: [
     {
       use: "@gridsome/source-filesystem",

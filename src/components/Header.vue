@@ -2,7 +2,9 @@
     <header class="header" :class="{sticky: $route.path === '/' || $route.path.includes('/projects/')}">
         <div class="container">
             <div class="left">
-                <h3>Emoreact'</h3>
+                <g-link :to="{ name: 'home' }" class="home-link">
+                    <h3 :alt="settings.site_name">Emoreact'</h3>
+                </g-link>
             </div>
             <nav class="nav right">
                 <a href="https://www.facebook.com/emoreact/">Assistance</a>
