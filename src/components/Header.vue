@@ -8,7 +8,7 @@
             </div>
             <nav class="nav right">
                 <a href="https://www.facebook.com/emoreact/">Assistance</a>
-                <g-link class="nav__link" to="/privacy">Privacy Policy</g-link>
+                <g-link class="nav__link" to="/privacy">Privacy policy</g-link>
             </nav>
         </div>
     </header>

@@ -4,9 +4,9 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Privacy policy</h1>
-        <li>Emoreact' does not collect data on your behalf</li>
+        <li>Emoreact' does not collect user data on your behalf</li>
         <li>Emoreact' does not share data with third parties</li>
-        <li>Emoreact' does not collect store user data online</li>
+        <li>Emoreact' only stores your custom reactions on your private iCloud account. It can not access them. You can disable this feature in the settings of the app.</li>
       </div>
     </div>
   </Layout>
