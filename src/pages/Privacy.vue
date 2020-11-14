@@ -6,9 +6,10 @@
         <h1 class="contact-title">Privacy policy</h1>
         <p>Emoreact' cares about privacy. You can use the app whithout exposing any personnal data.</p><p>This page informs visitors regarding the Emoreact' policies with the collection, use, and disclosure of personal content in case you consent to give to Emoreact' access to some of your personal data.</p>
         <h3>Data Collection and Use</h3>
-        <p>Emoreact' does not require access to any user data to be functionnal. Nevertheless it may request an access to your photo library and your camera if you wish to create custom reactions or search reactions using your face.<p>
+        <p>Emoreact' does not require an access to personnal data to be functionnal. Nevertheless it may request access to your photo library and your camera if you wish to create custom reactions or search reactions using your face.<p>
         <p>When creating a reaction from your photo library, only the content you select is exposed to Emoreact'. It does not have access to your entire library.</p>
-        <p>When searching reactions using your face, Emoreact' uses the TrueDepth technology of your camera to deternime your current facial expression. Face recognition and search is done completely on your device.</p>
+        <p>When searching reactions using your face, Emoreact' uses the TrueDepth technology of your camera to deternime your current facial expression. Face recognition and search are done completely on your device.</p>
+        <p>You can revoke the photo library access and the camera access from the system settings.</p>
         <h3>Data Storage</h3>
           <p>Personal content (such as custom reactions) is not saved on our servers nor do we have access to this data. This data is saved locally on your devices and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). It allows you to keep your Emoreact' data synchronized between your devices and prevents data loss. You always have the option to disable iCloud or delete your iCloud data from the system settings.</p>
         <h3>Third parties</h3>
