@@ -4,9 +4,16 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Privacy policy</h1>
-        <li>Emoreact' does not collect user data on your behalf</li>
-        <li>Emoreact' does not share data with third parties</li>
-        <li>Emoreact' only stores your custom reactions on your private iCloud account. It can not access them. You can disable this feature in the settings of the app.</li>
+        <p>Emoreact' cares about privacy. You can use the app whithout exposing any personnal data.</p><p>This page informs visitors regarding the Emoreact' policies with the collection, use, and disclosure of personal content in case you consent to give to Emoreact' access to some of your personal data.</p>
+        <h3>Data Collection and Use</h3>
+        <p>Emoreact' does not require access to any user data to be functionnal. Nevertheless it may request an access to your photo library and your camera if you wish to create custom reactions or search reactions using your face.<p>
+        <p>When creating a reaction from your photo library, only the content you select is exposed to Emoreact'. It does not have access to your entire library.</p>
+        <p>When searching reactions using your face, Emoreact' uses the TrueDepth technology of your camera to deternime your current facial expression. Face recognition and search is done completely on your device.</p>
+        <h3>Data Storage</h3>
+          <p>Personal content (such as custom reactions) is not saved on our servers nor do we have access to this data. This data is saved locally on your devices and, in case you are using the iCloud function of the application, synchronized with your personal iCloud CloudKit database (Apple service). It allows you to keep your Emoreact' data synchronized between your devices and prevents data loss. You always have the option to disable iCloud or delete your iCloud data from the system settings.</p>
+        <h3>Third parties</h3>
+          <p>Emoreact' does not use analytics tools, advertising networks or third-party SDKs. It does not share your data with external entities.</p>
+          <p>Nevertheless you may yourself expose some of your data if you use the reaction sharing feature. In such case, you expose the shared data to any Emoreact' user who has the sharing iCloud link. Be sure to share your data consciously. Emoreact' still does not access to this data.</p>
       </div>
     </div>
   </Layout>
